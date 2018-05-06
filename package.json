@@ -1,8 +1,8 @@
 {
     "name": "vscode-mac-dictionary",
     "displayName": "Mac Dictionary",
-    "description": "Integrates Mac Dictionary.app with vscode.",
-    "version": "0.2.0",
+    "description": "Integrates Mac Dictionary.app or EuDic with vscode.",
+    "version": "0.2.1",
     "publisher": "kohkimakimoto",
     "homepage": "https://github.com/kohkimakimoto/vscode-mac-dictionary",
     "repository": {

@@ -12,7 +12,7 @@ export class Dictionary {
      * @return {string} dash handler and uri
      */
     getCommand(query: string): string {
-        var uri = 'dict://' + encodeURIComponent(query);
+        var uri = 'eudic://' + encodeURIComponent(query);
         return 'open ' + uri;
     }
 }
